@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location =  messLink: 'https://m.me/100056127415236;
+            window.location =  messLink: 'https://m.me/100056127415236
           },
         });
       }
