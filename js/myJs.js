@@ -8,7 +8,7 @@ text1: "Hi,chào cậu :3",
   text7: "Lý do cậu thích tớ :vv",
   text8: "Gửi cho tớ :3",
   text9: "Vì Lâm đẹp try vlllll :3333",
-  text10: "Love u 3000",
+  text10: "Love u 3000 <3",
   text11:
     "Khi nào hết dịch mình đi chơi nhaaa! Giờ thì nhắn tin cho tớ đi nào :3",
   text12: "Okii lunn <3",
